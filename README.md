@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Dalius Butrimas a.k.a. _tvorojok
-- 👀 I’m interested in programming and NFT's
-- 🌱 I’m currently learning Solidity
-- 📫 You can reach me on twitter.com/_tvorojok
+jagshemash
